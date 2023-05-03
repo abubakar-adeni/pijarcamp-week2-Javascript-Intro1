@@ -1,4 +1,4 @@
-# Pijar Camp - Week 2 - Javascript 1
+# Pijar Camp - Week 2 - Javascript Intro 1
 
 Tugas Bootcamp Pijar Camp Minggu Kedua Materi Javascript 1.
 
